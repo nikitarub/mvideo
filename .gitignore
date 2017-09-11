@@ -102,4 +102,4 @@ ENV/
 
 # files
 *.csv
-
+*large.txt
